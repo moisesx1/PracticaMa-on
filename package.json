@@ -1,0 +1,29 @@
+{
+  "name": "practicafinalgit",
+  "version": "1.0.0",
+  "description": "**PROYECTO FINAL**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesx1/PracticafinalGit.git"
+  },
+  "author": "Moises Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesx1/PracticafinalGit/issues"
+  },
+  "homepage": "https://github.com/moisesx1/PracticafinalGit#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "maile": "^1.0.6",
+    "node": "^16.1.0",
+    "nodemailer": "^6.6.1",
+    "nodemon": "^2.0.7"
+  }
+}
